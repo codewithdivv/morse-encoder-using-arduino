@@ -16,7 +16,7 @@ This project is implemented using Arduino, and demonstrates basic text-to-Morse 
 - (Optional) Power supply / USB for Arduino  
 
 ## Software Requirements  
-- Arduino IDE  
+- Arduino UNO  
 
 ## Usage / How to Use  
 
